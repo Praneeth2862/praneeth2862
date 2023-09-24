@@ -13,11 +13,18 @@ I'm a passionate software developer with a keen interest in Full Stack Web Devel
 
 ## 🚀 Featured Projects
 
-### [Project X](https://github.com/yourusername/project-x)
-A description of your project and its significance.
+### [Digital-Diary](https://github.com/yourusername/project-x)
+Digital Diary is a platform that enables users to create, manage, and store their daily diary entries online. The core technologies we used for this project include PHP, MySQL, HTML, CSS, and JavaScript.
+The primary features of Digital Diary include:
 
-### [Project Y](https://github.com/yourusername/project-y)
-Another project you're proud of.
+User Authentication: Users can register accounts with a username and password. Once registered, they can securely log in to access their diary entries.
+
+Diary Entry Management: Users can create new diary entries, view existing entries, edit them for updates, or delete entries they no longer need. Each entry contains a title, date, and content.
+
+User Experience: We focused on creating an intuitive and user-friendly interface, implementing form validation to guide users, and ensuring data privacy by allowing users to manage only their own diary entries.
+
+### [tic-tac-toe-game](https://github.com/yourusername/project-y)
+A 2-Player Tic-Tac-Toe Game
 
 ---
 
@@ -29,10 +36,10 @@ Another project you're proud of.
 
 ## 🛠️ Skills
 
-- Languages: Python, JavaScript
-- Frameworks: Flask, React
-- Machine Learning: TensorFlow, scikit-learn
-- Databases: PostgreSQL, MongoDB
+- Languages: Python, JavaScript,C++
+- Frameworks: React,ExpressJs,NodeJs
+- Machine Learning: scikit-learn
+- Databases: MySQL, MongoDB
 - Version Control: Git
 
 ---
@@ -40,16 +47,10 @@ Another project you're proud of.
 ## 🎨 Hobbies
 
 In my free time, I enjoy:
-- 🎸 Playing the guitar
-- 📚 Reading science fiction novels
-- 🌄 Hiking in the great outdoors
+- 🎸 Playing Checc
+- 📚 Watching science Movies
 
 ---
-
-## 🖋️ Recent Blog Posts
-
-- [My Journey into AI: From Novice to Enthusiast](https://yourblog.com/my-ai-journey)
-- [10 Tips for Effective Code Documentation](https://yourblog.com/code-documentation-tips)
 
 ---
 
