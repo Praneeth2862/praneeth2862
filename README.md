@@ -2,7 +2,7 @@
 
 I'm a passionate software developer with a keen interest in Full Stack Web Developement.
 
-- 🌱 I’m currently learning about neural MERN stack , Data Structures and Algorithms
+- 🌱 I’m currently learning  MERN stack , Data Structures and Algorithms
 - 💬 Ask me about Python and web development
 - 📫 How to reach me: [Email](mailto:karyamsettypraneethisaac@example.com) |  [LinkedIn]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/praneeth-isaac-karyamsetty-1823a1242/))
 - 😄 Pronouns: He/Him
