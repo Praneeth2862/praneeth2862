@@ -4,7 +4,7 @@ I'm a passionate software developer with a keen interest in Full Stack Web Devel
 
 - 🌱 I’m currently learning  MERN stack , Data Structures and Algorithms
 - 💬 Ask me about Python and web development
-- 📫 How to reach me: [Email](mailto:karyamsettypraneethisaac@example.com) |  [LinkedIn]([[https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/praneeth-isaac-karyamsetty-1823a1242/)](https://www.linkedin.com/in/praneeth-isaac-karyamsetty-1823a1242/))
+- 📫 How to reach me: [Email](mailto:karyamsettypraneethisaac@example.com) |  [LinkedIn](https://www.linkedin.com/in/praneeth-isaac-karyamsetty-1823a1242/)
 - 😄 Pronouns: He/Him
 
 ![Profile Views](https://komarev.com/ghpvc/?username=praneeth2862)
@@ -13,7 +13,7 @@ I'm a passionate software developer with a keen interest in Full Stack Web Devel
 
 ## 🚀 Featured Projects
 
-### [Digital-Diary](https://github.com/yourusername/project-x)
+### [Digital-Diary](https://github.com/Praneeth2862/Digital-Diary-Website-Project)
 Digital Diary is a platform that enables users to create, manage, and store their daily diary entries online. The core technologies we used for this project include PHP, MySQL, HTML, CSS, and JavaScript.
 The primary features of Digital Diary include:
 
@@ -23,7 +23,7 @@ Diary Entry Management: Users can create new diary entries, view existing entrie
 
 User Experience: We focused on creating an intuitive and user-friendly interface, implementing form validation to guide users, and ensuring data privacy by allowing users to manage only their own diary entries.
 
-### [tic-tac-toe-game](https://github.com/yourusername/project-y)
+### [tic-tac-toe-game](https://github.com/Praneeth2862/Tic-Tac-Toe-Game)
 A 2-Player Tic-Tac-Toe Game
 
 ---
