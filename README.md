@@ -4,7 +4,7 @@ I'm a passionate software developer with a keen interest in Full Stack Web Devel
 
 - 🌱 I’m currently learning  MERN stack , Data Structures and Algorithms
 - 💬 Ask me about Python and web development
-- 📫 How to reach me: [Email](mailto:karyamsettypraneethisaac@example.com) |  [LinkedIn]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/praneeth-isaac-karyamsetty-1823a1242/))
+- 📫 How to reach me: [Email](mailto:karyamsettypraneethisaac@example.com) |  [LinkedIn]([[https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/praneeth-isaac-karyamsetty-1823a1242/)](https://www.linkedin.com/in/praneeth-isaac-karyamsetty-1823a1242/))
 - 😄 Pronouns: He/Him
 
 ![Profile Views](https://komarev.com/ghpvc/?username=praneeth2862)
