@@ -1,4 +1,4 @@
-# Hi there, I'm [Praneeth Isaac Karyamsetty] 👋
+# Hi there, I'm Praneeth Isaac Karyamsetty 👋
 
 I'm a passionate software developer with a keen interest in Full Stack Web Developement.
 
@@ -47,7 +47,7 @@ A 2-Player Tic-Tac-Toe Game
 ## 🎨 Hobbies
 
 In my free time, I enjoy:
-- 🎸 Playing Checc
+- 🎸 Playing Chess
 - 📚 Watching science Movies
 
 ---
