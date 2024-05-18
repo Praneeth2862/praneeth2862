@@ -54,5 +54,4 @@ In my free time, I enjoy:
 
 ---
 
-*Note: This README is just an example and doesn't reflect an actual profile. Replace the placeholders (`yourusername`, `yourhandle`, etc.) with your actual information.*
 
